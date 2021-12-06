@@ -30,7 +30,7 @@ c7afa4a3485a5e46a8e6c01f3d79956707846c2145019cf4004d190147370afe\
 **HyperJumpMainDistributor** \
 0xFeDd479723B03350cff007fe0DB19D1C6F179457\
 **FTM -> BSC BridgeDistributor**\
-0xeAE39a03Fb06B9a1f9540C5c15711Ac67dD0E464\
+0xeAE39a03Fb06B9a1f9540C5c15711Ac67dD0E464
 
 ## Fantom Mech Junkyard: mech migrator contracts
 **HyperJumpRecycleTokenDistributor**\
@@ -42,7 +42,7 @@ c7afa4a3485a5e46a8e6c01f3d79956707846c2145019cf4004d190147370afe\
 **LpClaimRewards Distributor**\
 0x13f3d1B75CABa433da82D8a72e4d75f66da30313\
 **FTM LpClaimRewards**\
-0x2B4618996faD3eE7Bc9Ba8c98969A8eaf01B5E20\
+0x2B4618996faD3eE7Bc9Ba8c98969A8eaf01B5E20
 
 ## HyperJump V1 Contracts not in use
 **Hyper OOrillium (farm token)**\
@@ -50,6 +50,6 @@ c7afa4a3485a5e46a8e6c01f3d79956707846c2145019cf4004d190147370afe\
 **V1 BURNMMACHINE V3**\
 ~~0xf640259e4032ef4f7e0a1b7a14b2473373c0245c~~\
 **V1 Farm HyperPlanet (Old farm)**\
-~~0x0575f8738efda7f512e3654f277c77e80c7d2725~~\
+~~0x0575f8738efda7f512e3654f277c77e80c7d2725~~
 
 --------------------------------------------------------------------------------------------------------
