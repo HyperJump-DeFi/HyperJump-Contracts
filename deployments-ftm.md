@@ -45,7 +45,7 @@ c7afa4a3485a5e46a8e6c01f3d79956707846c2145019cf4004d190147370afe\
 0x2B4618996faD3eE7Bc9Ba8c98969A8eaf01B5E20
 
 ## HyperJump V1 Contracts not in use
-**Hyper OOrillium (farm token)**\
+**Hyper Orillium (farm token)**\
 ~~0x0575f8738efda7f512e3654f277c77e80c7d2725~~\
 **V1 BURNMMACHINE V3**\
 ~~0xf640259e4032ef4f7e0a1b7a14b2473373c0245c~~\
