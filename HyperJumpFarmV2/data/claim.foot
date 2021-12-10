@@ -1,0 +1,16 @@
+  }
+  
+  function claim() public {
+    require(!claimed[msg.sender], "already claimed");
+    require(amounts[msg.sender] > 0, "not claimable");
+    hyperJumpTokenDistributor.collectTo(msg.sender, amounts[msg.sender]);
+    claimed[msg.sender] = true;
+    emit Claimed(msg.sender, amounts[msg.sender], block.timestamp);
+  }
+
+  function canClaim() public view returns (bool) {
+    return amounts[msg.sender] > 0
+           && !claimed[msg.sender];
+  }
+
+}

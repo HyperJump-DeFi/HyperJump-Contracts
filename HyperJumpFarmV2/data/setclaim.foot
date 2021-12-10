@@ -1,0 +1,21 @@
+
+var nr_of_users = users.length;
+console.log('setting claims for %s users', nr_of_users);
+
+var batch_update_size = 100;
+for (var n=0; n < nr_of_users; n+=batch_update_size) {
+   var batch_users = [];
+   var batch_amounts = [];
+   for (var b=0; b < batch_update_size && n+b < nr_of_users; b++) {
+       batch_users.push(users[n+b]);
+       batch_amounts.push((new BigNumber(amounts[n+b]).toFixed(0));
+   }
+   console.log('updating claims for users %s to %s', n, n+b);
+   var tx = await HyperJumpFtmClaimLpRewards.setClaims(batch_users, batch_amounts);
+   var tx_receipt = tx.wait();
+}
+console.log('Finished setting claims');
+
+var tx = await HyperJumpFtmClaimLpRewards.renounceOwnership();
+var tx_receipt = tx.wait();
+console.log('Renounced ownership of claimLpRewards contract.');

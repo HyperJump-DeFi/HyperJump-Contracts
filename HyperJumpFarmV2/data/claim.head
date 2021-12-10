@@ -1,0 +1,21 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.9;
+
+import "./IHyperJumpTokenDistributor.sol";
+
+contract HyperJumpCHAINClaimLpRewards {
+  mapping (address => uint256) public amounts;
+  mapping (address => bool) public claimed;
+  IHyperJumpTokenDistributor public hyperJumpTokenDistributor;
+
+  address public constant token = JUMP_ADDRESS;
+
+  event Claimed(
+    address indexed user,
+    uint256 amount,
+    uint256 timestamp
+  );
+
+  constructor(IHyperJumpTokenDistributor _hyperJumpTokenDistributor) {
+    hyperJumpTokenDistributor = _hyperJumpTokenDistributor;
+
