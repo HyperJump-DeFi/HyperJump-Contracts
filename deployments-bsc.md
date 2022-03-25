@@ -48,7 +48,7 @@
 **HyperJumpStation v2.0**\
 ~~0x7A0De9A006129A18AE8d3C4e609fa866EE29A5B3~~\
 **HyperJumpBridgeTokenDistributor for hyperstation 2.0**\
-~~0x7F0a733B03EC455cb340E0f6af736A13d8fBB851~~
+~~0x7F0a733B03EC455cb340E0f6af736A13d8fBB851~~   
 **xJUMP for 2.0(wrapper for staking pool)**\
 ~~0x3876720eF21Cd7036B8A247a695cb82D5319e588~~
 
