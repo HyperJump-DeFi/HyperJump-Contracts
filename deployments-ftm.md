@@ -11,10 +11,10 @@
 0x5621Ca989428CF105784164b84D500f4a6bEc889
 
 ## Farm (HyperStation) and its utility contracts
-**HyperJumpStation**\
-0x2E03284727Ff6E50BB00577381059a11e5Bb01dE\
-**HyperJumpSimpleTokenDistributor**\
-0xF195eE230Ec8dd16d8e3D0572C28B81B3D70C1a7\
+**HyperJumpStation 2.1**\
+0xb0AA3a0458BD85F859345e2251C7665C5f7A9d18
+**HyperJumpBridgeTokenDistributor for hyperstation 2.1**\
+0xD27D38694aadb487AEa67dB70fcEbB411A7Ac3ae\
 **BurnContract**\
 0x7AfCA69dCD68a8b36764ccE35B89A76450ccA411 
 
@@ -29,8 +29,10 @@ c7afa4a3485a5e46a8e6c01f3d79956707846c2145019cf4004d190147370afe\
 ## Distribution system
 **HyperJumpMainDistributor** \
 0xFeDd479723B03350cff007fe0DB19D1C6F179457\
-**FTM -> BSC BridgeDistributor**\
-0xeAE39a03Fb06B9a1f9540C5c15711Ac67dD0E464
+**FTM -> BSC BridgeDistributorfor hyperstation 2.1**\
+0x863130381c476a3dAbcd6F287Ab967fE4c3a7D13
+**FTM -> BSC BridgeDistributor for hyperstation 2.0**\
+~~0xeAE39a03Fb06B9a1f9540C5c15711Ac67dD0E464~~\
 
 ## Fantom Mech Junkyard: mech migrator contracts
 **HyperJumpRecycleTokenDistributor**\
@@ -43,6 +45,13 @@ c7afa4a3485a5e46a8e6c01f3d79956707846c2145019cf4004d190147370afe\
 0x13f3d1B75CABa433da82D8a72e4d75f66da30313\
 **FTM LpClaimRewards**\
 0x2B4618996faD3eE7Bc9Ba8c98969A8eaf01B5E20
+
+## HyperJump Farm v2.0 Contracts not in use
+**HyperJumpStation 2.0**\
+~~0x2E03284727Ff6E50BB00577381059a11e5Bb01dE~~\
+**HyperJumpBridgeTokenDistributor for hyperstation 2.0**\
+~~0xF195eE230Ec8dd16d8e3D0572C28B81B3D70C1a7~~\
+
 
 ## HyperJump V1 Contracts not in use
 **Hyper Orillium (farm token)**\
