@@ -10,8 +10,6 @@
 0x130025eE738A66E691E6A7a62381CB33c6d9Ae83   
 **xJUMP for 2.1(wrapper for staking pool)**   
 0x522650de53e79ead931e4eb3537b12d7fe06697d   
-**xJUMP for 2.0(wrapper for staking pool)**\
-~~0x3876720eF21Cd7036B8A247a695cb82D5319e588~~
 
 ## Farm (HyperStation) and its utility contracts
 
@@ -51,6 +49,8 @@
 ~~0x7A0De9A006129A18AE8d3C4e609fa866EE29A5B3~~\
 **HyperJumpBridgeTokenDistributor for hyperstation 2.0**\
 ~~0x7F0a733B03EC455cb340E0f6af736A13d8fBB851~~
+**xJUMP for 2.0(wrapper for staking pool)**\
+~~0x3876720eF21Cd7036B8A247a695cb82D5319e588~~
 
 ## HyperJump V1 Contracts NOT in use
 
