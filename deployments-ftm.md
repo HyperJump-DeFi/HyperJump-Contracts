@@ -34,9 +34,7 @@ c7afa4a3485a5e46a8e6c01f3d79956707846c2145019cf4004d190147370afe\
 **HyperJumpMainDistributor** \
 0xFeDd479723B03350cff007fe0DB19D1C6F179457\
 **FTM -> BSC BridgeDistributorfor hyperstation 2.1**\
-0x863130381c476a3dAbcd6F287Ab967fE4c3a7D13
-**FTM -> BSC BridgeDistributor for hyperstation 2.0**\
-~~0xeAE39a03Fb06B9a1f9540C5c15711Ac67dD0E464~~\
+0x863130381c476a3dAbcd6F287Ab967fE4c3a7D13\
 
 ## Fantom Mech Junkyard: mech migrator contracts
 
@@ -60,6 +58,8 @@ c7afa4a3485a5e46a8e6c01f3d79956707846c2145019cf4004d190147370afe\
 ~~0xF195eE230Ec8dd16d8e3D0572C28B81B3D70C1a7~~\
 **xJUMP for hyperstation 2.0**\
 ~~0x5621Ca989428CF105784164b84D500f4a6bEc889~~\
+**FTM -> BSC BridgeDistributor for hyperstation 2.0**\
+~~0xeAE39a03Fb06B9a1f9540C5c15711Ac67dD0E464~~\
 
 ## HyperJump V1 Contracts not in use
 
