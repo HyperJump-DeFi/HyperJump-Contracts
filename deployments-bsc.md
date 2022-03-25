@@ -5,11 +5,11 @@
 ## Tokens
 
 **HYPERBURN**\
-0x03d6bd3d48f956d783456695698c407a46ecd54d\
-**HYPERJUMP**\
-0x130025eE738A66E691E6A7a62381CB33c6d9Ae83\
-**xJUMP for 2.1(wrapper for staking pool)**\
-0x522650de53e79ead931e4eb3537b12d7fe06697d
+0x03d6bd3d48f956d783456695698c407a46ecd54d\   
+**HYPERJUMP**\   
+0x130025eE738A66E691E6A7a62381CB33c6d9Ae83\   
+**xJUMP for 2.1(wrapper for staking pool)**\   
+0x522650de53e79ead931e4eb3537b12d7fe06697d\   
 **xJUMP for 2.0(wrapper for staking pool)**\
 ~~0x3876720eF21Cd7036B8A247a695cb82D5319e588~~\
 
