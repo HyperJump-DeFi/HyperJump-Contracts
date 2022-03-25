@@ -5,13 +5,13 @@
 ## Tokens
 
 **HYPERBURN**\
-0x03d6bd3d48f956d783456695698c407a46ecd54d\   
-**HYPERJUMP**\   
-0x130025eE738A66E691E6A7a62381CB33c6d9Ae83\   
-**xJUMP for 2.1(wrapper for staking pool)**\   
-0x522650de53e79ead931e4eb3537b12d7fe06697d\   
+0x03d6bd3d48f956d783456695698c407a46ecd54d    
+**HYPERJUMP**    
+0x130025eE738A66E691E6A7a62381CB33c6d9Ae83   
+**xJUMP for 2.1(wrapper for staking pool)**   
+0x522650de53e79ead931e4eb3537b12d7fe06697d   
 **xJUMP for 2.0(wrapper for staking pool)**\
-~~0x3876720eF21Cd7036B8A247a695cb82D5319e588~~\
+~~0x3876720eF21Cd7036B8A247a695cb82D5319e588~~
 
 ## Farm (HyperStation) and its utility contracts
 
@@ -43,20 +43,20 @@
 **LpClaimRewards Distributor**\
 0x4406D7CF208FcC3503bb23B4964a558d68A3Cd70\
 **FTM LpClaimRewards**\
-0xF153911d912de1f4FE576FbE4Ab29C075d656B58\
+0xF153911d912de1f4FE576FbE4Ab29C075d656B58
 
 ## HyperJump Farm V2.0 Contracts not in use
 
 **HyperJumpStation v2.0**\
 ~~0x7A0De9A006129A18AE8d3C4e609fa866EE29A5B3~~\
 **HyperJumpBridgeTokenDistributor for hyperstation 2.0**\
-~~0x7F0a733B03EC455cb340E0f6af736A13d8fBB851~~\
+~~0x7F0a733B03EC455cb340E0f6af736A13d8fBB851~~
 
 ## HyperJump V1 Contracts NOT in use
 
 **Hyper Alloy (farm token)**\
 ~~0x5eF5994fA33FF4eB6c82d51ee1DC145c546065Bd~~\
 **V1 HyperCity (farm)**\
-~~0x4F1818Ff649498a2441aE1AD29ccF55a8E1C6250~~\
+~~0x4F1818Ff649498a2441aE1AD29ccF55a8E1C6250~~
 
 ---
